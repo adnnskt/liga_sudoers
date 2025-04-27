@@ -36,7 +36,7 @@ try:
     cat_mulheres = [2,4,8,9]
     cat_mulheres_filhos = [1,2,3,4,7,8,9]
 
-    print('Gerando dados aleatórios no banco de dados.') #O comando gera 10 em 10 registros 
+    print('Gerando dados aleatórios no banco de dados.') # O comando gera 10 em 10 registros 
     for i in range(0, total_registros):
     # Loop pelos resultados
         for pessoa in pessoas:
